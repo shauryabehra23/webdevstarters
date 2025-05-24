@@ -1,0 +1,33 @@
+main{
+    display: block;
+    padding: 50px;
+    margin-right: 25%;
+    margin-left: 25%;
+    width: 50%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-color: rgb(252, 3, 3);
+    border-style: solid;
+    background-color: white;
+    border-radius: 50px;
+}
+
+body{
+    background-color: lightpink;
+}
+table
+{
+    text-align: center;
+    border-collapse: collapse;
+    margin: 0 auto;
+    width: 100%;
+}
+
+tr,td{
+    border-style: solid;
+    border-bottom: 1px solid black;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    text-align: center;
+}
